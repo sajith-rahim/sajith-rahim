@@ -50,6 +50,13 @@
 <p align="left">
 <a href="https://spring.io/" target="_blank"> <img style="transform:scale(.65);" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" style="background-color:#fff" width="40" height="40"/> </a> </p>
 
+
+<h4 align="left">Databases:</h4>
+<p align="left">
+<a href="https://www.teradata.com" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/DB/teradata.svg" alt="teradatasql" width="80" height="60"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+</p>
+
 <h4 align="left">Servers:</h4>
 <p align="left">
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
@@ -60,13 +67,6 @@
 
 <p align="left"> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="transform:scale(.45);" alt="flutter" width="60" height="60"/> </a>
  <a href="https://docs.python.org/3/library/tkinter.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="tkinter-python" width="40" height="40"/> </a></p>
-
-
-<h4 align="left">Databases:</h4>
-<p align="left">
-<a href="https://www.teradata.com" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/DB/teradata.svg" alt="teradatasql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-</p>
 
 <h4 align="left">ML:</h4>
 <p align="left">
