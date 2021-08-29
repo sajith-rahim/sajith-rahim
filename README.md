@@ -72,8 +72,13 @@
 <p align="left">
 <a href="https://pytorch.org/" target="_blank"> <img  style="transform:scale(.65);" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="65"/> </a>
  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="60"/> </a>
+   <a href="https://numpy.org" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/ML/NumPy.svg" alt="numpy" width="40" height="60"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/ML/Pandas.svg" alt="pandas" width="40" height="60"/> </a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="60"/> </a> 
+<a href="https://jupyter.org" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/ML/Jupyter%20Notebook.svg" alt="Jupyter" width="40" height="60"/> </a>
+   <a href="https://colab.research.google.com" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/ML/Google-Colab.svg" alt="Colab" width="40" height="60"/> </a>
 <a href="https://www.teradata.com/Vantage" target="_blank"> <img alt="Vantage" src="https://marvel-b1-cdn.bc0a.com/f00000000151999/www.teradata.com/getmedia/10f419f7-4c2d-457e-97b1-349a76d23678/teradata-vantage-console.png" width="120" height="40" > </a> 
+
 </p>
 
 
