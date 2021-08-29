@@ -10,7 +10,7 @@
 
 - 💻 Software Engineer R&D at Teradata India.
 
-- 👨‍💻 :   [Portfolio](sajith-rahim.github.io)
+- 👨‍💻 :   [Portfolio](http://sajith-rahim.github.io)
 
 - :mag:prefers Bayesian perspective over frequentist.
 
