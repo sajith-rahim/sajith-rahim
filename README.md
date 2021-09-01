@@ -39,7 +39,7 @@
 <p align="left">
  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org" target="_blank"> <img src="https://reach.rust-lang.org/static/rust-logo-white.png" alt="rust" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Frameworks:</h3>
@@ -49,7 +49,7 @@
 
 <h4 align="left">Backend:</h4>
 <p align="left">
-<a href="https://spring.io/" target="_blank"> <img style="transform:scale(.65);" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" style="filter:invert(100%)" width="40" height="40"/> </a> </p>
+<a href="https://spring.io/" target="_blank"> <img style="transform:scale(.65);" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/Web/flask.png" alt="flask"  width="40" height="65"/> </a> </p>
 
 
 <h4 align="left">Databases:</h4>
