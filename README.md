@@ -1,16 +1,16 @@
-<h2 align="center">Hi there 👋, I'm Sajith</h2>
+<h2 align="center">Hi there 👋, I'm <a href="https://sajith-rahim.github.io/">Sajith</a></h2>
 <h3 align="center"></h3>
 
 
 <h2 align="left">I'm </h2>
 
+<img align="right" width="400px" height="360px" alt="banner" src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/gif/readme_banner.gif" />
+
 - 🌱 (still) diving into the depths of **The Machine Learning Bible**.
 
 - 🌱currently working on <b><i>Master Data Management</i></b>, <b><i>ETL</i></b> and <b><i>Probablistic Record Linkage</i></b>.
 
-- 💻 Software Engineer R&D at Teradata India.
-
-- 👨‍💻 :   [Portfolio](http://sajith-rahim.github.io)
+- 💻💼 Software Engineer R&D at Teradata India.
 
 - :mag:prefers Bayesian perspective over frequentist.
 
@@ -37,6 +37,7 @@
 
 <h4 align="left">Familiar with:</h4>
 <p align="left">
+ <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 </p>
@@ -84,7 +85,10 @@
 
 
 <h3 align="left">Others:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" style="filter:invert(100%)" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img style="transform:scale(.65);" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a> </p>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" style="filter:invert(100%)" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img style="transform:scale(.65);" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a> 
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
+<img height="40" src="https://spark.apache.org/images/spark-logo-trademark.png">
+</p>
 
 
 
