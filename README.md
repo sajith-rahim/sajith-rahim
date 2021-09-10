@@ -19,7 +19,7 @@
 - ⚡ have spent a lot of random walks on **3n + 1 / Collatz conjecture** `4->2->1->4->...`
 
 <br>
-[Dr. Ken Lunde]()
+
 <h3 align="left">LinkedIn Profile:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sajith-rahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajith-rahim" height="30" width="40" /></a>
