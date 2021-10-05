@@ -8,7 +8,7 @@
 
 - 🌱 (still) diving into the depths of **The Machine Learning Bible**.
 
-- 🌱currently working on <b><i>Master Data Management</i></b>, <b><i>ETL</i></b> and <b><i>Probablistic Record Linkage</i></b>.
+- 🌱currently working on <b><i>Master Data Management</i></b>, <b><i>ETL</i></b> and <b><i>Probabilistic Record Linkage</i></b>.
 
 - 💻💼 Software Engineer R&D at Teradata India.
 
