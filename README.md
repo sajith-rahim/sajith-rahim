@@ -55,7 +55,10 @@
 
 <h4 align="left">Backend:</h4>
 <p align="left">
-<a href="https://spring.io/" target="_blank"> <img style="transform:scale(.65);" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/Web/flask.png" alt="flask"  width="40" height="65"/> </a> </p>
+<a href="https://spring.io/" target="_blank"> <img style="transform:scale(.65);" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a>  
+ <!--a href="https://nodejs.org" target="_blank"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a--> 
+ <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/Web/flask.png" alt="flask"  width="40" height="65"/> </a> </p>
 
 
 <h4 align="left">Databases:</h4>
@@ -66,9 +69,11 @@
 
 <h4 align="left">Servers:</h4>
 <p align="left">
-<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="http://tomcat.apache.org/res/images/asf_logo.svg" alt="spring" width="60" height="40"/>
-</p>
+ 
+
+<a href="http://tomcat.apache.org/" target="_blank"> <img src="http://tomcat.apache.org/res/images/asf_logo.svg" alt="spring" width="60" height="40"/> </a>
+<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>  </a>
+ </p>
 
 <h4 align="left">App:</h4>
 
@@ -79,11 +84,11 @@
 <p align="left">
 <a href="https://pytorch.org/" target="_blank"> <img  style="transform:scale(.65);" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="65"/> </a>
  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="60"/> </a>
-   <a href="https://numpy.org" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/ML/NumPy.svg" alt="numpy" width="40" height="60"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/ML/Pandas.svg" alt="pandas" width="40" height="60"/> </a>
+   <!--a href="https://numpy.org" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/ML/NumPy.svg" alt="numpy" width="40" height="60"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/ML/Pandas.svg" alt="pandas" width="40" height="60"/> </a-->
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="60"/> </a> 
-<a href="https://jupyter.org" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/ML/Jupyter%20Notebook.svg" alt="Jupyter" width="40" height="60"/> </a>
-   <a href="https://colab.research.google.com" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/ML/Google-Colab.svg" alt="Colab" width="40" height="60"/> </a>
+<!--a href="https://jupyter.org" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/ML/Jupyter%20Notebook.svg" alt="Jupyter" width="40" height="60"/> </a>
+   <a href="https://colab.research.google.com" target="_blank"> <img src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/images/ML/Google-Colab.svg" alt="Colab" width="40" height="60"/> </a-->
 <a href="https://www.teradata.com/Vantage" target="_blank"> <img alt="Vantage" src="https://marvel-b1-cdn.bc0a.com/f00000000151999/www.teradata.com/getmedia/10f419f7-4c2d-457e-97b1-349a76d23678/teradata-vantage-console.png" width="120" height="40" > </a> 
 
 </p>
@@ -91,7 +96,7 @@
 
 
 <h3 align="left">Others:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <img height="40" src="https://spark.apache.org/images/spark-logo-trademark.png"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://bashlogo.com/img/logo/svg/full_colored_dark.svg" alt="bash" style="filter:invert(100%)" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img style="transform:scale(.65);" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a> 
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <img height="40" src="https://spark.apache.org/images/spark-logo-trademark.png"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://bashlogo.com/img/logo/svg/full_colored_dark.svg" alt="bash" style="filter:invert(100%)" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!--a href="https://postman.com" target="_blank"> <img style="transform:scale(.65);" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a--> 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
 
 </p>
