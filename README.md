@@ -6,7 +6,7 @@
 
 <img align="right" width="400px" height="360px" alt="banner" src="https://raw.githubusercontent.com/sajith-rahim/sajith-rahim/main/gif/readme_banner.gif" />
 
-- 🌱 (still) diving into the depths of **The Machine Learning Bible**.
+- :student: (still) diving into the depths of **The Machine Learning Bible**.
 
 - 🌱currently working on <b><i>Master Data Management</i></b>, <b><i>ETL</i></b> and <b><i>Probabilistic Record Linkage</i></b>.
 
