@@ -10,7 +10,7 @@
 
 - 🌱currently working on <b><i>Master Data Management</i></b>, <b><i>ETL</i></b> and <b><i>Probabilistic Record Linkage</i></b>.
 
-- 💻💼 Software Engineer R&D at Teradata India.
+- :man_technologist:💼 Software Engineer R&D at Teradata India.
 
 - :mag:prefers Bayesian perspective over frequentist.
 
