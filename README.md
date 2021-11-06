@@ -20,7 +20,7 @@
 
 <br>
 
-<h3 align="left">Connect:</h3>
+<h3 align="left">:speech_balloon: Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sajith-rahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajith-rahim" height="30" width="40" /></a>
  <a href="mailto:sajith.rahim@outlook.com?subject=Hi" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/email-2154393-1809311.png" alt="sajith-rahim:mail" height="30" width="40" /></a>
