@@ -16,7 +16,7 @@
 
 - :dizzy: fascinated by the simplicity of **MCMC and Ergodic theory**
 
-- ⚡ have spent a lot of random walks on **3n + 1 / Collatz conjecture** `4->2->1->4->...`
+- ⚡ vizualizing  random walks on **3n + 1 / Collatz conjecture** `4->2->1->4->...`
 
 <br>
 
