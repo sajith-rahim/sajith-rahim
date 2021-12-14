@@ -26,7 +26,7 @@
  <a href="mailto:sajith.rahim@outlook.com?subject=Hi" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/email-2154393-1809311.png" alt="sajith-rahim:mail" height="30" width="40" /></a>
 </p>
 <br>
-<h2>🧠 Skills</h2>
+<h2>🧠 Skills.</h2>
 <h3 align="left">Languages:</h3>
 <h4 align="left">Fluent in:</h4>
 <p align="left"> 
