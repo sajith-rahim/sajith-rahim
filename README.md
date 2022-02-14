@@ -14,7 +14,7 @@
 
 - :mag: prefers Bayesian perspective over frequentist.
 
-- :dizzy: fascinated by the simplicity of **MCMC and Ergodic theory**
+- :dizzy: fascinated by Latent Variable Models and **MCMC Ergodic theory**
 
 - ⚡ vizualizing  random walks on **3n + 1 / Collatz conjecture** `4->2->1->4->...`
 
