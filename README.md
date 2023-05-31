@@ -117,4 +117,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-<img src="https://visitor-badge.deta.dev/badge?page_id=sajith-rahim&left_color=red&right_color=green"></img>
+
+<img src="https://gpvc.arturio.dev/sajith-rahim"></img>
+
