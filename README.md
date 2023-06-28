@@ -118,6 +118,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-<img src="https://gpvc.arturio.dev/sajith-rahim"></img>
-<img src="https://hello-world-autumn-moon-206e.sajith-rahim.workers.dev"></img>
+<img src="https://badge.sajith-rahim.workers.dev?id=gh-readme"></img>
+
 
