@@ -118,6 +118,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-<img src="https://badge.sajith-rahim.workers.dev?id=gh-readme"></img>
+<img src="https://badge.sajith-rahim.workers.dev?id=github-readme"></img>
 
 
