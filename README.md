@@ -120,4 +120,4 @@
 
 
 
-<img src="https://badge.sajith-rahim.workers.dev?id=gh-readme"></img>
+<img src="https://badge.sajith-rahim.workers.dev?id=github-readme"></img>
